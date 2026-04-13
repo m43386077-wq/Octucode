@@ -1,0 +1,101 @@
+date,location,sales,payment method
+2026-01-01,New York,452.10,Credit Card
+2026-01-01,Los Angeles,120.50,Cash
+2026-01-02,Chicago,89.99,Digital Wallet
+2026-01-02,Houston,310.25,Credit Card
+2026-01-03,New York,15.00,Cash
+2026-01-03,Los Angeles,540.00,Debit Card
+2026-01-04,Chicago,225.40,Digital Wallet
+2026-01-04,Houston,67.20,Credit Card
+2026-01-05,New York,112.90,Cash
+2026-01-05,Los Angeles,430.15,Debit Card
+2026-01-06,Chicago,95.00,Credit Card
+2026-01-06,Houston,210.60,Digital Wallet
+2026-01-07,New York,33.45,Cash
+2026-01-07,Los Angeles,156.80,Credit Card
+2026-01-08,Chicago,880.00,Debit Card
+2026-01-08,Houston,42.10,Digital Wallet
+2026-01-09,New York,190.25,Credit Card
+2026-01-09,Los Angeles,315.00,Cash
+2026-01-10,Chicago,74.50,Debit Card
+2026-01-10,Houston,620.40,Credit Card
+2026-01-11,New York,12.99,Digital Wallet
+2026-01-11,Los Angeles,285.00,Cash
+2026-01-12,Chicago,99.99,Credit Card
+2026-01-12,Houston,145.30,Debit Card
+2026-01-13,New York,56.00,Digital Wallet
+2026-01-13,Los Angeles,320.10,Credit Card
+2026-01-14,Chicago,850.00,Cash
+2026-01-14,Houston,44.20,Debit Card
+2026-01-15,New York,125.75,Credit Card
+2026-01-15,Los Angeles,210.00,Digital Wallet
+2026-01-16,Chicago,67.80,Cash
+2026-01-16,Houston,305.50,Credit Card
+2026-01-17,New York,18.25,Debit Card
+2026-01-17,Los Angeles,92.00,Digital Wallet
+2026-01-18,Chicago,410.60,Credit Card
+2026-01-18,Houston,55.30,Cash
+2026-01-19,New York,129.45,Debit Card
+2026-01-19,Los Angeles,730.00,Credit Card
+2026-01-20,Chicago,22.00,Digital Wallet
+2026-01-20,Houston,140.80,Cash
+2026-01-21,New York,98.15,Credit Card
+2026-01-21,Los Angeles,312.00,Debit Card
+2026-01-22,Chicago,45.60,Digital Wallet
+2026-01-22,Houston,1200.00,Credit Card
+2026-01-23,New York,77.25,Cash
+2026-01-23,Los Angeles,185.40,Debit Card
+2026-01-24,Chicago,34.99,Digital Wallet
+2026-01-24,Houston,260.00,Credit Card
+2026-01-25,New York,105.10,Cash
+2026-01-25,Los Angeles,415.30,Debit Card
+2026-01-26,Chicago,63.00,Credit Card
+2026-01-26,Houston,520.00,Digital Wallet
+2026-01-27,New York,89.50,Cash
+2026-01-27,Los Angeles,142.75,Credit Card
+2026-01-28,Chicago,330.00,Debit Card
+2026-01-28,Houston,58.20,Digital Wallet
+2026-01-29,New York,115.00,Credit Card
+2026-01-29,Los Angeles,27.50,Cash
+2026-01-30,Chicago,195.60,Debit Card
+2026-01-30,Houston,410.00,Credit Card
+2026-01-31,New York,72.40,Digital Wallet
+2026-01-31,Los Angeles,135.00,Cash
+2026-02-01,Chicago,215.25,Credit Card
+2026-02-01,Houston,48.90,Debit Card
+2026-02-02,New York,160.00,Digital Wallet
+2026-02-02,Los Angeles,305.45,Credit Card
+2026-02-03,Chicago,890.00,Cash
+2026-02-03,Houston,64.20,Debit Card
+2026-02-04,New York,112.75,Credit Card
+2026-02-04,Los Angeles,33.00,Digital Wallet
+2026-02-05,Chicago,245.80,Cash
+2026-02-05,Houston,175.00,Credit Card
+2026-02-06,New York,56.40,Debit Card
+2026-02-06,Los Angeles,290.15,Digital Wallet
+2026-02-07,Chicago,12.50,Credit Card
+2026-02-07,Houston,320.00,Cash
+2026-02-08,New York,88.99,Debit Card
+2026-02-08,Los Angeles,145.20,Credit Card
+2026-02-09,Chicago,21.00,Digital Wallet
+2026-02-09,Houston,198.50,Cash
+2026-02-10,New York,410.75,Credit Card
+2026-02-10,Los Angeles,67.30,Debit Card
+2026-02-11,Chicago,134.00,Digital Wallet
+2026-02-11,Houston,55.00,Credit Card
+2026-02-12,New York,220.45,Cash
+2026-02-12,Los Angeles,92.10,Debit Card
+2026-02-13,Chicago,305.00,Credit Card
+2026-02-13,Houston,44.50,Digital Wallet
+2026-02-14,New York,150.00,Cash
+2026-02-14,Los Angeles,275.80,Credit Card
+2026-02-15,Chicago,18.99,Debit Card
+2026-02-15,Houston,112.40,Digital Wallet
+2026-02-16,New York,340.00,Credit Card
+2026-02-16,Los Angeles,76.50,Cash
+2026-02-17,Chicago,125.15,Debit Card
+2026-02-17,Houston,210.00,Digital Wallet
+2026-02-18,New York,95.60,Credit Card
+2026-02-18,Los Angeles,42.00,Cash
+2026-02-19,Chicago,188.45,Debit Card
+2026-02-19,Houston,530.20,Credit Card
